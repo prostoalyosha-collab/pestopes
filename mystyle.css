@@ -1,0 +1,26 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: rgb(177, 34, 34);
+  text-align: center;
+  
+}
+h2 {
+     color: rgb(79, 34, 177);
+  text-align:center;
+}
+h3{ color: rgb(34, 177, 156);
+  text-align:center;
+}
+
+p {
+      color:rgb(117, 166, 65);
+  font-family: verdana;
+  font-size: 20px;
+  text-align:center;
+}
+img{height: 200px;
+  width: 50%;
+  background-color: powderblue; }

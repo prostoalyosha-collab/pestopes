@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(210, 173, 230);
+}
+
+h1 {
+  color: rgb(55, 34, 177);
+  text-align: center;
+  
+}
+h2 {
+     color: rgb(177, 91, 34);
+  text-align:center;
+}
+h3{ color: rgb(117, 177, 34);
+  text-align:center;
+}
+
+p {
+      color:rgb(149, 166, 65);
+  font-family: verdana;
+  font-size: 20px;
+  text-align:center;
+}
+img{height: 200px;
+  width: 50%;
+  background-color: rgb(230, 187, 176); }
